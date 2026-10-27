@@ -212,6 +212,11 @@ atualizacao-automatica-excel/
 ## 👨‍💻 Autor
 ## Mairon Oliveira
 
-- GitHub: [Mairon Oliveira](https://github.com/maironolive/)
 - LinkedIn: [Mairon Oliveira](https://www.linkedin.com/in/maironhenriquedeoliveira/)
 - Email: maironhenrique@hotmail.com
+
+### 🚀 Projetos e Portfólio
+Desenvolvo projetos práticos envolvendo análise de dados, dashboards, indicadores de desempenho, ETL e visualização analítica, conectando tecnologia e problemas reais de negócio.
+
+- 📊 [Portfólio com análises no Medium](https://medium.com/@maironhenrique)
+- 📈 [Portfólio com Dashboards](https://app.xperiun.com/in/maironhenrique)
