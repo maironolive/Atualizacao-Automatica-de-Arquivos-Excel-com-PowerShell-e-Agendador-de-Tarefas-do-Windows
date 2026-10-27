@@ -208,3 +208,10 @@ atualizacao-automatica-excel/
 - PowerShell
 - Microsoft Excel
 - Agendador de Tarefas do Windows
+
+## 👨‍💻 Autor
+## Mairon Oliveira
+
+- GitHub: [Mairon Oliveira](https://github.com/maironolive/)
+- LinkedIn: [Mairon Oliveira](https://www.linkedin.com/in/maironhenriquedeoliveira/)
+- Email: (maironhenrique@hotmail.com)
