@@ -214,4 +214,4 @@ atualizacao-automatica-excel/
 
 - GitHub: [Mairon Oliveira](https://github.com/maironolive/)
 - LinkedIn: [Mairon Oliveira](https://www.linkedin.com/in/maironhenriquedeoliveira/)
-- Email: (maironhenrique@hotmail.com)
+- Email: maironhenrique@hotmail.com
