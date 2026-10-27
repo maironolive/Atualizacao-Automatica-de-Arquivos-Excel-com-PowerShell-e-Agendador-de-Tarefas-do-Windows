@@ -51,7 +51,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ## 3. Criar o script PowerShell
 
-Abra o Bloco de Notas e salve o código abaixo como `AtualizaExcel.ps1`.
+Abra o Bloco de Notas e salve o código abaixo como `**NOME_SEU_SCRIPT**.ps1` (exemplo: `AtualizaExcel_CDI.ps1`).
 
 ```powershell
 Write-Host "Iniciando Excel..."
