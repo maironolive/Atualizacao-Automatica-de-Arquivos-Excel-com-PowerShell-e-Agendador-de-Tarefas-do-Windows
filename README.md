@@ -27,9 +27,9 @@ Este projeto apresenta uma solução para automatizar a atualização de planilh
 ## 1. Organizar os arquivos
 
 1. Abra o Explorador de Arquivos.
-2. Acesse a unidade `D:`.
-3. Crie uma pasta chamada `AutomatizarExcel`.
-4. Copie a planilha `CDI mensal.xlsx` para essa pasta.
+2. Acesse a unidade `D:` (aqui informe a unidade que está usando, no exemplo foi informado a unidade D).
+3. Crie uma pasta chamada `**NOME_DA_SUA_PASTA**` (exemplo: `AutomatizarExcel`).
+4. Copie a planilha `**NOME_DO_SEU_ARQUIVO**.xlsx` para essa pasta (exemplo: `CDI mensal.xlsx`).
 
 **Importante:**
 
@@ -51,7 +51,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ## 3. Criar o script PowerShell
 
-Abra o Bloco de Notas e salve o código abaixo como `AtualizaExcel_CDI.ps1`.
+Abra o Bloco de Notas e salve o código abaixo como `AtualizaExcel.ps1`.
 
 ```powershell
 Write-Host "Iniciando Excel..."
@@ -60,7 +60,7 @@ $excel = $null
 $workbook = $null
 
 try {
-    $arquivo = "D:\AutomatizarExcel\CDI mensal.xlsx"
+    $arquivo = "D:\"**NOME_DA_SUA_PASTA\NOME_DO_SEU_ARQUIVO**.xlsx"
 
     $excel = New-Object -ComObject Excel.Application
     $excel.Visible = $false
